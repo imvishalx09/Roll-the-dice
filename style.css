@@ -1,0 +1,36 @@
+#container{
+  font-family: 'Gill Sans', 'Gill Sans MT';
+  text-align: center;
+  padding: 10px 15px;
+  border: 5px;
+  ;
+}
+
+button{
+  font-size: 1.5rem;
+  padding: 5px 5px;
+  border-radius: 10px;
+  boder none;
+  background-color: rgba(4, 212, 105, 0.558);
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+}
+
+button:hover{
+  background-color: rgb(0, 255, 60);
+}
+button:active{
+  background-color: rgb(0, 255, 60);
+}
+
+input{
+  font-size: 1.5em;
+  width: 100px;
+  text-align: center;
+}
+
+#diceImages img{
+  width: 150px;
+  margin: 15px;
+}
